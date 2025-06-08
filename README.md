@@ -164,8 +164,6 @@ Your project should include:
 ✅ Write full names of models from documentation — **ATS** friendly!
 
 
-
-
 ---
 
 ## 📝 Resume Writing Example
