@@ -1,6 +1,6 @@
 
 
-# 📘 On campus Data Science role Preparation Guide
+#  On campus Data Science role Preparation Guide
 
 ---
 
@@ -11,21 +11,23 @@
    *(Power BI, Tableau optional)*
 
 2. **Data Scientist and ML/DL Engineer** 
-    *Niche profile, domain expertise, and previous experience matters*
+    *(Niche profile, domain expertise, and previous experience matters)*
 
 ---
 
 ##  Steps in Recruitment Drive
 
 * **Online Assessment**
-  DSA (sometimes in Python or R), SQL, MCQ *(math reasoning, stats, ML, DL, GenAI basics)*
+  ✅DSA (sometimes in Python or R), ✅SQL, ✅MCQ *(math reasoning, stats, ML, DL, GenAI basics)*
 
 * **Technical Round**
-  Questions on stats and ML/DL fundamentals
-  *Focus will be on your projects and past experiences (mainly)*
+  Questions on stats and ML/DL fundamentals.
+  No DSA round as such.
+  Focus will be on your projects and past experiences (mainly)
 
 * **HR Round**
   *Prepare well before interview*
+  [gfg guide](https://www.geeksforgeeks.org/hr-interview-questions/)
 
 ---
 
@@ -36,7 +38,7 @@
 1. **DSA** – Striver & InterviewBit
 2. **Leetcode Contests** – Weekly & Biweekly
 3. **Codeforces Contests**
-4. **R** – [W3Schools R](https://www.w3schools.com/r/)
+4. **R** – [W3Schools R](https://www.w3schools.com/r/)(you may face some MCQs in OA)
 
 ---
 
@@ -63,8 +65,8 @@
 * **Python Libs:** NumPy, Pandas, Matplotlib, Seaborn
   [Summer Analytics Week 1](https://www.caciitg.com/sa/course25/) *(No need to memorize syntax)*
 
-**Practice:**
-Implement algorithms like logistic regression, SVM, polynomial regression, L1/L2, Gradient Descent — using proper OOP structure
+**Bonus Point:**
+Implement algorithms like **logistic regression**, **SVM**, **polynomial regression**, **L1/L2**, **Gradient Descent** from scratch — using proper OOPs structure like data loader, trainer etc. Just ask chatgpt.(No need to go through source code)
 
 ---
 
@@ -147,17 +149,20 @@ Your project should include:
 
 1.  Proper data resources (collected or pipelined)
 2.  Preprocessing and feature engineering
-3.  Training (from scratch / transfer learning / fine-tuning with multiple pipelines)
-4.  Evaluation with test metrics
-5.  Deployment via Flask or Streamlit *(cloud optional)*
+3.  Hyperparameter tuning and Training (from scratch / transfer learning / fine-tuning)(try multiple pipelines)
+4.  Evaluation metrics 
+5.  Deployment via Flask or Streamlit *(cloud deployment optional)*
 6.  Research paper reference *(optional)*
-7.  MLOps best practices – modular code, CI/CD, Docker, monitoring *(optional)*
+7.  MLOps practices – modular code, CI/CD, Docker, monitoring *(optional)*
    [MLOps YouTube Playlist](https://www.youtube.com/playlist?list=PLupK5DK91flV45dkPXyGViMLtHadRr6sp)
 
+
+
 **Bonus Points:**
-✅ Don’t just use pre-trained models in pipelines 
-✅ Don’t just call APIs like OpenAI/Gemini 
-✅ Write full names of models from documentation — ATS friendly! 
+❌ Don’t use only pre-trained models in pipelines. *(It must include some sort of training pipeline)*
+❌ Don’t make applications where you just call APIs like OpenAI/Gemini.
+✅ Write full names of models from documentation — **ATS** friendly!
+
 
 
 
@@ -191,7 +196,7 @@ Your project should include:
 
 ##  Backup
 
-* If possible have one **one off-campus offer** (CTC doesn’t matter)
+* If possible have one **off-campus offer** (CTC doesn’t matter)
 * Prepare for a **backup domain** (SDE/Product)
 * Deployed ML projects are perfect for **SDE resume** too
 
