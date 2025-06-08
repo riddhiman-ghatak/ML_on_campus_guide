@@ -1,6 +1,6 @@
 
 
-#  On campus Data Science role Preparation Guide
+#  Data Science role Preparation Guide
 
 ---
 
@@ -196,6 +196,14 @@ Your project should include:
 
 * If possible have one **off-campus offer** (CTC doesn’t matter)
 * Prepare for a **backup domain** (SDE/Product)
-* Deployed ML projects are perfect for **SDE resume** too
+* Deployed ML projects are perfect for **SDE resume** too.
 
+---
 
+## Offcampus
+
+* Update your linked in profile. Update experiences. Add projects and achievent and add your portfoilio website.
+* Target small startups or go to linked in jobs.
+* Send connection requests to Hiring team, Lead engineers, HR.
+* Add a note with connection request or use in mail (premium feature of Linked in). Mention your skills which are important for the company and job role.
+* After connecting send resume and ask for interview..
