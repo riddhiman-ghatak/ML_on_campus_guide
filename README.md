@@ -10,8 +10,8 @@
    *(If you're preparing for ML roles, no need for separate prep)*
    *(Power BI, Tableau optional)*
 
-2. **Data Scientist and ML/DL Engineer**
-   *(These are different roles but for freshers, it will be the same)*
+2. **Data Scientist and ML/DL Engineer** 
+
    *Niche profile, domain expertise, and previous experience matters*
 
 ---
