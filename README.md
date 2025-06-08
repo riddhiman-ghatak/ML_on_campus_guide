@@ -21,9 +21,9 @@
   ✅DSA (sometimes in Python or R), ✅SQL, ✅MCQ *(math reasoning, stats, ML, DL, GenAI basics)*
 
 * **Technical Round**
-  Questions on stats and ML/DL fundamentals.
-  No DSA round as such.
-  Focus will be on your projects and past experiences (mainly)
+  ✅Questions on stats and ML/DL fundamentals.
+  ✅No DSA round as such.
+  ✅Focus will be on your projects and past experiences (mainly)
 
 * **HR Round**
   *Prepare well before interview*
@@ -206,4 +206,4 @@ Your project should include:
 * Target small startups or go to linked in jobs.
 * Send connection requests to Hiring team, Lead engineers, HR.
 * Add a note with connection request or use in mail (premium feature of Linked in). Mention your skills which are important for the company and job role.
-* After connecting send resume and ask for interview..
+* After connecting send resume and ask for an interview call.
