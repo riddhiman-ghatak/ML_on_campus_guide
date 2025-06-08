@@ -132,7 +132,7 @@ Implement algorithms like **logistic regression**, **SVM**, **polynomial regress
 * [Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3)
 
 
-##  LLM Evaluation
+##  LLM Evaluation(important)
 
 * [LLM Evaluation Playlist](https://www.youtube.com/playlist?list=PLrLEqwuz-mRI5ubqVJ7DpbHheCflJDDXk)
 
@@ -153,8 +153,8 @@ Your project should include:
 4.  Evaluation metrics 
 5.  Deployment via Flask or Streamlit *(cloud deployment optional)*
 6.  Research paper reference *(optional)*
-7.  MLOps practices – modular code, CI/CD, Docker, monitoring *(optional)*
-   [MLOps YouTube Playlist](https://www.youtube.com/playlist?list=PLupK5DK91flV45dkPXyGViMLtHadRr6sp)
+7.  MLOps practices – modular code, CI/CD, Docker, monitoring 
+   [MLOps YouTube Playlist](https://www.youtube.com/playlist?list=PLupK5DK91flV45dkPXyGViMLtHadRr6sp)*(optional)*
 
 
 
