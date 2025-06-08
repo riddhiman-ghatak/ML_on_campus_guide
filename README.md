@@ -11,8 +11,7 @@
    *(Power BI, Tableau optional)*
 
 2. **Data Scientist and ML/DL Engineer** 
-
-   *Niche profile, domain expertise, and previous experience matters*
+    *Niche profile, domain expertise, and previous experience matters*
 
 ---
 
