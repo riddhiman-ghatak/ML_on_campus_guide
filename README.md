@@ -156,9 +156,11 @@ Your project should include:
    [MLOps YouTube Playlist](https://www.youtube.com/playlist?list=PLupK5DK91flV45dkPXyGViMLtHadRr6sp)
 
 **Bonus Points:**
-✅ Don’t just use pre-trained models in pipelines
-✅ Don’t just call APIs like OpenAI/Gemini
-✅ Write full names of models from documentation — ATS friendly!
+✅ Don’t just use pre-trained models in pipelines 
+✅ Don’t just call APIs like OpenAI/Gemini 
+✅ Write full names of models from documentation — ATS friendly! 
+
+
 
 ---
 
