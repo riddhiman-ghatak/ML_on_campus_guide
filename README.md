@@ -98,6 +98,22 @@ Implement algorithms like **logistic regression**, **SVM**, **polynomial regress
 
 ---
 
+###  GANs *(optional, only if u have done projects)*
+
+* [Implementation](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8AbK0RNZGeQFEPESqCzHQvj)
+* [Theory](https://www.youtube.com/playlist?list=PLdxQ7SoCLQAMGgQAIAcyRevM8VvygTpCu) 
+
+
+---
+
+###  RL *(may face some mcq)*
+
+* [Q-Learning](https://www.youtube.com/watch?v=_O9a5xbBe-s&t=2s)
+* [Solved Example](https://www.youtube.com/watch?v=J3qX50yyiU0) 
+
+
+---
+
 ##  Gen AI
 
 > Don’t get carried away by agentic AI or MCP hype. Interviewer will start asking questions on **scaling, latency, and monitoring** then. Make your **fundamentals strong first**.
