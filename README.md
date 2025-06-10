@@ -93,7 +93,7 @@ Implement algorithms like **logistic regression**, **SVM**, **polynomial regress
 ###  Time Series *(optional)*
 
 * [CACIITG TSA](https://www.caciitg.com/resources/tsa/)
-* [Playlist 1](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3) *(upto 34)* + [Playlist 2](https://www.youtube.com/playlist?list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP) *(preferred)*
+* [Playlist 1](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3) *(upto 34)* + [Playlist 2](https://www.youtube.com/playlist?list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP) 
 
 
 ---
